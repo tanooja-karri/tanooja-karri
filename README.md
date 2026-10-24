@@ -18,11 +18,9 @@
 <!-- Connect buttons -->
 <a href="https://linkedin.com/in/tanooja-karri-951811434">
   <img src="https://img.shields.io/badge/-LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge" />
 </a>
 <a href="mailto:tanoojakarri@gmail.com">
   <img src="https://img.shields.io/badge/-EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/-REACH%20OUT-EA4335?style=for-the-badge" />
 </a>
 <a href="https://github.com/tanooja-karri">
   <img src="https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github&logoColor=white" />
