@@ -41,24 +41,39 @@
 <!-- ========== ABOUT ME ========== -->
 ## 📊 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="62%">
 
 ```js
 const tanooja = {
   role: "Data Analyst (Fresher)",
-  education: "Bachelor of Data Science | Aditya Degree College | CGPA 8.7/10",
+  education: "B.Sc Data Science | Aditya Degree College",
+  cgpa: "8.7 / 10",
   location: "Tanuku, Andhra Pradesh, India",
-  skills: ["Advanced SQL", "Excel", "Tableau", "Python", "Data Modeling", "Dashboarding"],
-  interests: ["Data Storytelling", "Data Analysis & Reporting", "Dashboards"],
+  skills: [
+    "Advanced SQL", "Excel", "Tableau",
+    "Python", "Data Modeling", "Dashboarding"
+  ],
+  interests: [
+    "Data Storytelling",
+    "Data Analysis & Reporting",
+    "Dashboards"
+  ],
   currentlyLearning: ["Statistics", "Python"],
   lookingFor: "Internship & Fresher Roles",
   motto: "Turning raw data into business insights"
 };
 ```
 
-</div>
+</td>
+<td width="38%" align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+
+</td>
+</tr>
+</table>
 
 <!-- ========== FEATURED PROJECTS ========== -->
 ## 🚀 Featured Projects
