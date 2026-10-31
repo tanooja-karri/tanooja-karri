@@ -43,27 +43,36 @@
 <tr>
 <td width="62%">
 
-```js
-const tanooja = {
-  role: "Data Analyst (Fresher)",
-  education: "B.Sc Data Science | Aditya Degree College",
-  cgpa: "8.7 / 10",
-  location: "Tanuku, Andhra Pradesh, India",
-  skills: [
-    "Advanced SQL", "Excel", "Tableau",
-    "Python", "Data Modeling", "Dashboarding"
-  ],
-  interests: [
-    "Data Storytelling",
-    "Data Analysis & Reporting",
-    "Dashboards"
-  ],
-  currentlyLearning: ["Statistics", "Python"],
-  lookingFor: "Internship & Fresher Roles",
-  motto: "Turning raw data into business insights"
-};
-```
+### 👋 Hi, I'm Tanooja Karri!
 
+📊 **Data Analyst | B.Sc. Data Science Graduate**  
+🎓 Aditya Degree College | **CGPA: 8.7/10**  
+📍 Andhra Pradesh, India
+
+**🛠️ Technical Skills**
+
+- **SQL:** Joins, Subqueries, CTEs, Window Functions
+- **Excel:** Data Cleaning, Pivot Tables, Lookups
+- **Python:** Pandas, NumPy, Exploratory Data Analysis
+- **Tableau:** Data Visualization, Dashboard Development
+- **Analytics:** Data Quality Assessment, KPI Reporting, Business Insights
+
+**🚀 Featured Projects**
+
+- **Amazon E-Commerce Sales & Profitability Analysis** — Analyzed sales, orders, profitability, and regional performance.
+- **Retail Sales Analysis** — Used SQL to explore customer behavior, category performance, and sales trends.
+- **Python Data Cleaning & Outlier Detection** — Applied data preprocessing, visualization, and statistical outlier detection techniques.
+
+**📚 Currently Learning**
+
+- Statistics for Data Analysis
+- Python for Data Analytics
+
+**🎯 Career Objective**
+
+Seeking paid Data Analyst internships and entry-level opportunities to apply analytical skills, solve business problems, and support data-driven decision-making.
+
+💡 *Turning raw data into actionable business insights.*
 </td>
 <td width="38%" align="center">
 
