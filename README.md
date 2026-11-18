@@ -60,13 +60,13 @@
 **🚀 Featured Projects**
 
 - **Amazon E-Commerce Sales & Profitability Analysis** — Analyzed sales, orders, profitability, and regional performance.
-- **Retail Sales Analysis** — Used SQL to explore customer behavior, category performance, and sales trends.
+- **E-Commerce Sales Analysis** — Cleaned ~1M records with Python and analyzed customer retention, delivery performance, and ratings using MySQL.
 - **Python Data Cleaning & Outlier Detection** — Applied data preprocessing, visualization, and statistical outlier detection techniques.
 
 **📚 Currently Learning**
 
-- Statistics for Data Analysis
-- Python for Data Analytics
+- Machine Learning
+- Time Series Analysis
 
 **🎯 Career Objective**
 
@@ -96,14 +96,14 @@ Seeking paid Data Analyst internships and entry-level opportunities to apply ana
       <br/><br/>
       <a href="https://github.com/tanooja-karri/amazon-ecommerce-sales-analysis">🔗 View Repository</a>
     </td>
-    <td align="center" valign="top" width="50%">
-      <h3>🛒 Retail Sales Analysis</h3>
-      <p>Built a retail sales database, cleaned null and missing values, and used SQL to find top customers, category-wise performance and sales trends, with ETL/ELT validation.</p>
-      <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <td align="center" valign="top" width="50%">
+      <h3>🛒 E-Commerce Sales Analysis</h3>
+      <p>Cleaned and processed ~1 million sales records using Python and Pandas, with IQR-based outlier removal. Used MySQL to analyze sales trends, customer retention, delivery delays, return rates, ratings and payment preferences.</p>
+      <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/-MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
       <br/><br/>
-      <!-- Replace with your repo link once uploaded -->
-      🔗 Coming soon
+      <a href="https://github.com/tanooja-karri/sales-analysis">🔗 View Repository</a>
     </td>
   </tr>
 </table>
