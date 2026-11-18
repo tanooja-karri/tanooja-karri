@@ -162,7 +162,7 @@ Seeking paid Data Analyst internships and entry-level opportunities to apply ana
 
 ### ⚙️ ETL & Automation
 <img src="https://img.shields.io/badge/-POWER%20QUERY-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/-MACROS-107C41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-PIVOT TABLE-107C41?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-ETL%2FELT-FF6F00?style=for-the-badge" />
 
 ### 🧪 Statistics & Analysis
@@ -212,13 +212,11 @@ Seeking paid Data Analyst internships and entry-level opportunities to apply ana
 
 ### 💪 Why Data Analysis?
 
-```js
-const myJourney = {
-  focus: "Data Analysis & Storytelling",
-  goal: "Land a Data Analyst role",
-  approach: "Learn, build projects, share insights"
-};
-```
+<p align="center">
+  🎯 <b>Focus:</b> Data Analysis & Storytelling<br/>
+  🚀 <b>Goal:</b> Land a Data Analyst role<br/>
+  💡 <b>Approach:</b> Learn, build projects, share insights
+</p>
 
 </div>
 
