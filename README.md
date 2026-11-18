@@ -165,9 +165,16 @@ Seeking paid Data Analyst internships and entry-level opportunities to apply ana
 <img src="https://img.shields.io/badge/-MACROS-107C41?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-ETL%2FELT-FF6F00?style=for-the-badge" />
 
+### 🧪 Statistics & Analysis
+<img src="https://img.shields.io/badge/-STATISTICAL%20ANALYSIS-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-HYPOTHESIS%20TESTING-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-A%2FB%20TESTING-D81B60?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-OUTLIER%20DETECTION-00897B?style=for-the-badge" />
+
 ### 🔧 Tools & Platforms
 <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 
 </div>
 
@@ -190,18 +197,14 @@ Seeking paid Data Analyst internships and entry-level opportunities to apply ana
       ✅ Data Cleaning<br/>
       ✅ KPI Reporting
     </td>
-    <td valign="top" align="center" width="33%">
+        <td valign="top" align="center" width="33%">
       <h4>🧩 In Progress</h4>
-      🔄 Statistics<br/>
-      🔄 Python for Analysis<br/>
-      🔄 Pandas & Matplotlib<br/>
-      🔄 Data Modeling
+      🔄 Machine Learning<br/>
+      🔄 Time Series Analysis
+      🔄 Forecasting
     </td>
     <td valign="top" align="center" width="33%">
       <h4>🎯 Next Steps</h4>
-      📌 Machine Learning Basics<br/>
-      📌 Forecasting<br/>
-      📌 Time Series Analysis<br/>
       📌 More Real-World Projects
     </td>
   </tr>
